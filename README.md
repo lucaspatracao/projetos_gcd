@@ -23,7 +23,7 @@ O sistema permite que **alunos**, **professores** e **administradores** trabalhe
 
 ### 🎯 Objetivo
 
-Facilitar a gestão de ferramentas e componentes defeituosos em laboratórios, proporcionando:
+Facilitar o gerenciamento de ferramentas e componentes defeituosos em laboratórios, proporcionando:
 
 - **Controle centralizado** de ferramentas e equipamentos
 - **Rastreamento de defeitos** com fotos e descrições detalhadas
