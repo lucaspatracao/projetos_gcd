@@ -1,4 +1,4 @@
-# GCD - Gerenciamento de Componentes Defeituosos
+# GCD - Gestão de Componentes Defeituosos
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 ![React Native](https://img.shields.io/badge/React%20Native-0.73.6-61DAFB.svg)
 ![Expo](https://img.shields.io/badge/Expo-50.0.20-000020.svg)
 
-**Sistema de gerenciamento de ferramentas e defeitos para laboratórios educacionais**
+**Sistema de gestão de ferramentas e defeitos para laboratórios educacionais**
 
 [Documentação](#-documentação) • [Funcionalidades](#-funcionalidades) • [Instalação](#-instalação) • [Tecnologias](#-tecnologias)
 
@@ -17,13 +17,13 @@
 
 ## 📋 Sobre o Projeto
 
-O **GCD (Gerenciamento de Componentes Defeituosos)** é uma aplicação mobile desenvolvida em React Native com Expo, projetada para gerenciar ferramentas, salas e defeitos em laboratórios educacionais, especialmente para instituições SENAI.
+O **GCD (Gestão de Componentes Defeituosos)** é uma aplicação mobile desenvolvida em React Native com Expo, projetada para gerenciar ferramentas, salas e defeitos em laboratórios educacionais, especialmente para instituições SENAI.
 
 O sistema permite que **alunos**, **professores** e **administradores** trabalhem de forma colaborativa para manter um controle eficiente sobre o estado das ferramentas, reportar defeitos, gerenciar salas e acompanhar a manutenção de equipamentos.
 
 ### 🎯 Objetivo
 
-Facilitar o gerenciamento de ferramentas e componentes defeituosos em laboratórios, proporcionando:
+Facilitar a gestão de ferramentas e componentes defeituosos em laboratórios, proporcionando:
 
 - **Controle centralizado** de ferramentas e equipamentos
 - **Rastreamento de defeitos** com fotos e descrições detalhadas
