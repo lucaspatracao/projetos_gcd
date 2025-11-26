@@ -1,4 +1,4 @@
-# GCD - Gestão de Componentes Defeituosos
+# GC&D - Gestão de Componentes Defeituosos
 
 <div align="center">
 
