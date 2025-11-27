@@ -15,8 +15,8 @@
 
 **🎥 Pitches do Projeto**
 ### Pitch Comercial
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([link_youtube_comercial](https://youtube.com/shorts/iIA9IFzOtyU?si=IpIqXmFdf87Jkmbp))
-[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)]([link_google_drive_comercial](https://drive.google.com/file/d/1six47SyG_GGaPObUWj3zy5WZJb3FCzF6/view?usp=sharing))
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/iIA9IFzOtyU?si=IpIqXmFdf87Jkmbp)
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1six47SyG_GGaPObUWj3zy5WZJb3FCzF6/view?usp=sharing)
 
 ### Pitch Técnico
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](link_youtube_tecnico)
