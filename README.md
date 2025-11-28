@@ -19,8 +19,8 @@
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1six47SyG_GGaPObUWj3zy5WZJb3FCzF6/view?usp=sharing)
 
 ### Pitch Técnico
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](link_youtube_tecnico)
-[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](link_google_drive_tecnico)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/shorts/K1B_WgI66JE)
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1GmiG-Xbn3golRfZIpCWAXBu5O5fv7eDx/view?usp=sharing)
 
 </div>
 
