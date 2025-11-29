@@ -22,6 +22,10 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/shorts/K1B_WgI66JE)
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1GmiG-Xbn3golRfZIpCWAXBu5O5fv7eDx/view?usp=sharing)
 
+### 📚 Tutorial
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/WLko9tJZL6E)
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1r4Cg-tjYsqciErewA4PiQ4X5tsCpM5-J/view?usp=sharing)
+
 </div>
 
 ---
