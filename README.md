@@ -26,6 +26,9 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/WLko9tJZL6E)
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1r4Cg-tjYsqciErewA4PiQ4X5tsCpM5-J/view?usp=sharing)
 
+### 📁 Arquivo do Projeto (.zip)
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Wa250niicRNUK0KLLuccLuS7mynX9hZa/view?usp=sharing)
+
 </div>
 
 ---
@@ -272,6 +275,46 @@ O projeto utiliza um **sistema de design consistente** com:
 - Acesso completo ao sistema
 
 ---
+
+## 👨‍💻 Equipe de Desenvolvimento
+
+### EnterDEVS - BUSCANDO SOLUÇÕES
+**Membros responsáveis pelo projeto**
+
+<div align="center">
+
+#### Lucas Nunes Patracão
+**Líder & Fullstack Developer**
+> Coordena a equipe e desenvolve soluções end-to-end. Especialista em arquitetura escalável e experiência do usuário.
+
+**Especialidade:** Soluções Integradas  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucaspatracao_?igsh=b3hndXlrZmVrNjFj)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucaspatracao)
+
+#### Nykolas Guimarães Isler
+**Back-end Specialist**
+> Especialista em lógica de negócio e performance. Garante que tudo funcione perfeitamente nos bastidores.
+
+**Especialidade:** Otimização & Performance  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nykolasgi)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NykolasDev)
+
+#### Miguel da Silva Manoel
+**Mobile Developer**
+> Transforma ideias em experiências móveis intuitivas. Foca em performance e usabilidade em dispositivos móveis.
+
+**Especialidade:** Experiência Mobile  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mi_guel.manoel)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miguel181206)
+
+#### Kaio Ciscare Farina
+**Designer & QA Engineer**
+> Garante que cada pixel tenha propósito e cada funcionalidade opere perfeitamente. O guardião da qualidade.
+
+**Especialidade:** Qualidade & Experiência  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaio.ciscare)
+
+</div>
 
 ## 📱 Telas Principais
 
